@@ -136,6 +136,7 @@ const Player = ({
         onTimeUpdate={handlerTime}
         onLoadedData={handlerAutoPlay}
         onLoadedMetaData={handlerAutoPlay}
+        onLoad={handlerAutoPlay}
         onEnded={handlerEnded}
       ></audio>
     </div>
