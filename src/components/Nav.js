@@ -6,7 +6,7 @@ const Nav = ({ libraryStatus, setLibraryStatus }) => {
   };
   return (
     <div className="nav">
-      <h1>Vue</h1>
+      <h1>React</h1>
       <button onClick={handlerLibrary}>Library</button>
     </div>
   );
