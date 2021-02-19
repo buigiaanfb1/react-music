@@ -1,0 +1,13 @@
+.song {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  h2 {
+    padding: 1rem;
+  }
+  img {
+    width: 25%;
+    border-radius: 50%;
+  }
+}
