@@ -138,7 +138,6 @@ const Player = ({
         onLoadedMetaData={handlerAutoPlay}
         onLoad={handlerAutoPlay}
         onEnded={handlerEnded}
-        crossOrigin="anonymous"
       ></audio>
     </div>
   );
