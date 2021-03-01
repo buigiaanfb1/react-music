@@ -2,12 +2,11 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
-      name: "Faded",
+      name: "Có làm có ăn",
       cover:
         "https://chillhop.com/wp-content/uploads/2020/09/0255e8b8c74c90d4a27c594b3452b2daafae608d-1024x1024.jpg",
-      artist: "Alan walker",
-      audio:
-        "https://vnso-zn-23-tf-mp3-320s1-zmp3.zadn.vn/32387a302f77c6299f66/7798287441367881942?authen=exp=1613749216~acl=/32387a302f77c6299f66/*~hmac=843fe5e795c0e49ac50afaa0eca8c5dc&fs=MTYxMzU3NjQxNjmUsIC0MHx3ZWJWNnwxMDAxODI4ODQ5fDE0LjE3OS4yMTEdUngNjE",
+      artist: "Huấn Hoa Hồng",
+      audio: "./music/test.mp3"
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
