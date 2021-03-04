@@ -4,9 +4,9 @@ function chillHop() {
     {
       name: "Có làm có ăn",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/09/0255e8b8c74c90d4a27c594b3452b2daafae608d-1024x1024.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtRexjLK8flJ1PQ06XeJz99L_AVrKmDnC4eDByD67UJk_XJ7KIGh5XrGra6iS-Siovpk&usqp=CAU",
       artist: "Huấn Hoa Hồng",
-      audio: "./music/test.mp3"
+      audio: "./music/test.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
